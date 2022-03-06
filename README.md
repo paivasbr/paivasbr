@@ -24,7 +24,7 @@
       <tb></tb>
       <td><img alt="" src=""></td>
     </tr>
-	  <tr align="center">
+    <tr align="center">
       <td><a href="https://github.com/nataliahisf/Projeto_Conclusao_Bloco_I"><b><>Code_Help;{</b></a></td>
       <td><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/nataliahisf/Projeto_Conclusao_Bloco_I?style=social"></td>
       <td><img alt="GitHub forks" src="https://img.shields.io/github/forks/nataliahisf/Projeto_Conclusao_Bloco_I?logo=forks&style=social"></td>
